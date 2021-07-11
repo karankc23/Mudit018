@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mudit018
+- 👀 I’m interested in full stack web development and competitive programming
+- 🌱 I’m currently learning ... JS
+- 💞️ I’m looking to collaborate on any web development project
+- 📫 How to reach me ... iit2020092@iiita.ac.in and agarwalmudit018@gmail.com

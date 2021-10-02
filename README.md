@@ -23,10 +23,11 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 
-  
-</div>
-<br />
+  <br />
 <br />
 <br />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mudit018&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit018&layout=compact&theme=gotham&hide_border=true&show_icons=true" />
+
+  
+</div>
